@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f4/WuD1eVkcSO7sq1813tf9GGr0+1vR0RDOzTqacSq4=",
+  "Hash": "liXFcvTufTpy9MQCtfQ5HR8fBpZSkOd5TVJvGzHdVxo=",
   "Source": "ProniaAB104",
   "BasePath": "_content/ProniaAB104",
   "Mode": "Default",
@@ -3196,6 +3196,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sidebar\\banner\\1-270x300.jpg"
     },
     {
+      "Identity": "C:\\Users\\Zeynal\\Desktop\\ProniaAB104\\ProniaAB104\\wwwroot\\assets\\images\\slider\\07e72953-4295-4553-9088-02f1ef18112f.jpeg",
+      "SourceId": "ProniaAB104",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Zeynal\\Desktop\\ProniaAB104\\ProniaAB104\\wwwroot\\",
+      "BasePath": "_content/ProniaAB104",
+      "RelativePath": "assets/images/slider/07e72953-4295-4553-9088-02f1ef18112f.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\slider\\07e72953-4295-4553-9088-02f1ef18112f.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\Zeynal\\Desktop\\ProniaAB104\\ProniaAB104\\wwwroot\\assets\\images\\slider\\1-1-524x617.png",
       "SourceId": "ProniaAB104",
       "SourceType": "Discovered",
@@ -3262,6 +3279,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\slider\\45639ed1-d3c0-4980-8009-886068e70647.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Zeynal\\Desktop\\ProniaAB104\\ProniaAB104\\wwwroot\\assets\\images\\slider\\aa74b469-7648-4181-a07a-ca3b435518b7.jpg",
+      "SourceId": "ProniaAB104",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Zeynal\\Desktop\\ProniaAB104\\ProniaAB104\\wwwroot\\",
+      "BasePath": "_content/ProniaAB104",
+      "RelativePath": "assets/images/slider/aa74b469-7648-4181-a07a-ca3b435518b7.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\slider\\aa74b469-7648-4181-a07a-ca3b435518b7.jpg"
     },
     {
       "Identity": "C:\\Users\\Zeynal\\Desktop\\ProniaAB104\\ProniaAB104\\wwwroot\\assets\\images\\slider\\aeb155e7-ecd2-4ea3-8d12-8ea6e4a189a6flow-2.jpg",
